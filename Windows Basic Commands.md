@@ -60,7 +60,7 @@ cd Users\win11
 <br> 
 ---
 
-###### 2. system Information (systeminfo):
+###### 2. system Information (systeminfo)
 Displays detailed information about the system, including OS version, hardware specs, network configuration, and uptime.
 
 ```
