@@ -2,7 +2,7 @@
 ###### Table of Contents
 
 - [1. Change Directory (cd)](#1.%20Change%20Directory%20(cd))
-- [2. system Information (systeminfo):](#2.%20system%20Information%20(systeminfo)
+- [2. system Information (systeminfo):](#2.%20system%20Information%20(systeminfo))
 - [3. Windows Version (ver)](#3.%20Windows%20Version%20(ver))
 - [4. Current User detail (whoami)](#4.%20Current%20User%20detail%20(whoami))
 - [5. Print a Message (echo),](#5.%20Print%20a%20Message%20(echo),)
